@@ -45,5 +45,9 @@ class ViewController: UIViewController {
     @objc func mastButtonAction(_ sender: UIButton){
         print("按钮点击")
     }
+    
+    @objc func mastAdd2(_ sender: UIButton){
+        print("按钮点击")
+    }
 }
 

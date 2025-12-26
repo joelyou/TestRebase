@@ -41,5 +41,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    @objc func mastButtonAction(_ sender: UIButton){
+        print("按钮点击")
+    }
 }
 

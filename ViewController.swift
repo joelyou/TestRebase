@@ -49,5 +49,16 @@ class ViewController: UIViewController {
     @objc func mastAdd2(_ sender: UIButton){
         print("按钮点击")
     }
+    @objc func devAdd1(_ sender: UIButton){
+        print("按钮点击")
+    }
+    
+    @objc func devAdd2(_ sender: UIButton){
+        print("按钮点击")
+    }
+    
+    @objc func devAdd3(_ sender: UIButton){
+        print("按钮点击")
+    }
 }
 

@@ -66,5 +66,8 @@ class ViewController: UIViewController {
     @objc func devAdd5(_ sender: UIButton){
         print("按钮点击 devAdd5")
     }
+    @objc func masterAdd3(_ sender: UIButton){
+        print("按钮点击masterAdd3")
+    }
 }
 
